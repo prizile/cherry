@@ -2,3 +2,5 @@ raja
 raka
 bnbd
 wejng
+jenkins
+docker
